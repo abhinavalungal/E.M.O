@@ -6,3 +6,7 @@ __pycache__/
 output/
 .venv/
 venv/
+
+.env
+.env.*
+!.env.example
